@@ -1,0 +1,25 @@
+{
+  "name": "uikit-custom-icons",
+  "version": "1.0.0",
+  "description": "Paquete con íconos personalizados de UIkit, requiere tener Fontawesome instalado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innoboxrr/uikit-custom-icons.git"
+  },
+  "keywords": [
+    "uikit",
+    "icons",
+    "custom",
+    "fontawesome"
+  ],
+  "author": "Homero Raul Vargas Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/innoboxrr/uikit-custom-icons/issues"
+  },
+  "homepage": "https://github.com/innoboxrr/uikit-custom-icons#readme"
+}
