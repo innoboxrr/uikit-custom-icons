@@ -1,6 +1,6 @@
 {
   "name": "uikit-custom-icons",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Paquete con íconos personalizados de UIkit, requiere tener Fontawesome instalado",
   "main": "index.js",
   "scripts": {
